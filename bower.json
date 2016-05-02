@@ -1,0 +1,25 @@
+{
+  "name": "nuxeo-batch-upload-sample-cordova",
+  "description": "Nuxeo batch upload sample in Cordova",
+  "main": "",
+  "keywords": [
+    "Nuxeo"
+  ],
+  "authors": [
+    "Philippe Guillamet"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "nuxeo": "^0.25.0"
+  }
+}

@@ -1,0 +1,10 @@
+# JetBrains
+.idea
+
+# Cordova
+platforms
+plugins
+hooks/README.md
+
+# Bower
+www/components
